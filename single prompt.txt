@@ -1,0 +1,61 @@
+i want to play dark messiah of might and magic, right in the browser (dm2)
+
+requirements:
+use a basic three.js setup, then generate pbr materials like metal, stone, wood, etc, keep the palette simple
+
+requirement:
+build only into index.html
+
+summary:
+dark messiah of might and magic clone, fun melee sword fighting, some zombies, some black guards, and directional melee, blocking, parrying, and heavy attacks
+
+directional:
+put emphasis on directional strikes that nudge enemies toward where you're swinging
+
+physics:
+ragdolls, kickable / throwable crates and barrels
+
+weapons:
+daggers, sword, staff
+
+magic:
+dark sight, heal, telekenisis
+
+ragdolls:
+just like in the 2006 game, weakened enemies may ragdoll during heavy fighting, or when kicked near a drop or when they are kicked near spikes
+
+kick:
+you can kick enemies, into spikes, off ledges
+
+environment traps:
+spike rack, scaffold with barrels with a support you can kick  
+
+fpv:
+you can see yourself in first person
+
+characters:
+generate all characters
+
+sound effects:
+give everything sound effects
+
+architecture:
+dungeon, crypt, gothic, ancient, arcane
+
+props:
+pots, sconces, torches, statues
+
+rope climbing:
+there is at least one climbable rope during level design
+
+architecture:
+use alcoves, arches, pillars, dark areas, stone debris, pedestals, runic symbols
+
+level design:
+first area, just like the 2006 game, take the spider key, open a door, run down several hallways, kick a zombie, then head into a combat arena, leave the combat area, climb onto a rope, go through a few more areas then finally open a door and grab the crystal, game end
+
+intro with master phenrig:
+very importat, make sure the game starts with a cool animated (skippable) intro of master phenrig telling you what to do (take the crystal, we have a use for it)
+
+main menu:
+just like in the 2006 game it has a source engine menu with a live 3d dungeon background and the logo, imitate vgui if you can
